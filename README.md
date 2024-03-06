@@ -1,0 +1,1 @@
+[![Coverage Status](https://coveralls.io/repos/github/Sampeerez/PR6_DSI/badge.svg?branch=main)](https://coveralls.io/github/Sampeerez/PR6_DSI?branch=main)
